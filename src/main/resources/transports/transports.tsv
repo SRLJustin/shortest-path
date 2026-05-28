@@ -4817,9 +4817,11 @@
 2590 3087 2	2590 3083 1	Climb-down Staircase 15648						1	
 2591 3087 2	2590 3083 1	Climb-down Staircase 15648						1	
 									
-# Watchtower									
-2549 3112 2	2549 3112 1	Climb-down Ladder 2797						2	
-2548 3111 2	2549 3112 1	Climb-down Ladder 2797						2	
+# Watchtower
+2549 3112 2	2549 3112 1	Climb-down Ladder 2797						2
+2548 3111 2	2549 3112 1	Climb-down Ladder 2797						2
+2933 4712 2	2549 3112 1	Climb-down Ladder 2797						2
+2933 4713 2	2549 3112 1	Climb-down Ladder 2797						2
 2548 3111 1	2549 3112 2	Climb-up Ladder 2796						2	
 2550 3111 1	2549 3112 2	Climb-up Ladder 2796						2	
 2549 3112 1	2549 3112 2	Climb-up Ladder 2796						2	
